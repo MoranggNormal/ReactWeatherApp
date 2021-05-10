@@ -1,3 +1,6 @@
+#!LIMITED API, EXITING PROJECT...!
+
+
 # React made Weather app
 
 It's a simple react project to show cities status by simply searching for it.
